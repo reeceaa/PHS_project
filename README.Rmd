@@ -9,8 +9,8 @@ output:
 
 # README
 
-This document contains the nescessary code to perform a basic epidemiological \
-anaylis on the Community Health Assessment Survey using R.\
+This document contains the necessary code to perform a basic epidemiological /
+analysis on the Community Health Assessment Survey using R./
 
 
 
