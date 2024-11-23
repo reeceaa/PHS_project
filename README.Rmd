@@ -1,0 +1,16 @@
+---
+title: "PHS 3102 Final Project"
+author: "Reece Anderson"
+date: "2024-11-23"
+output:
+  pdf_document: default
+  html_document: default
+---
+
+# README
+
+This document contains the nescessary code to perform a basic epidemiological \
+anaylis on the Community Health Assessment Survey using R.\
+
+
+
